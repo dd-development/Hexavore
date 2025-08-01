@@ -26,7 +26,7 @@ your best time and win the game?
 7. Upon winning, the user will see their fastest times recorded on the leaderboard. The user can replay the game to try to beat their time.
 8. The hex-grid was implemented using a map data structure, with all of the interactivity being designed around event listeners/handlers. Every obstacle (except walls) were implemented using asynchronous timing
    functions, and local browser storage is used to ensure continuity in the background music and keep track of the user's times.
-9. Animations and visuals were implemented using CSS keyframes (except the goblin, which was a frame-by-frame animated GIF).
+9. Animations were implemented using CSS keyframes (except the goblin, which was a frame-by-frame animated GIF).
 
 ## Example
 <img width="1790" height="872" alt="gameplay" src="https://github.com/user-attachments/assets/4be65463-13b6-4296-82df-896a11fd53bc" />
