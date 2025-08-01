@@ -29,4 +29,12 @@ your best time and win the game?
 9. Animations were implemented using CSS keyframes (except the goblin, which was a frame-by-frame animated GIF).
 
 ## Example
-<img width="1790" height="872" alt="gameplay" src="https://github.com/user-attachments/assets/4be65463-13b6-4296-82df-896a11fd53bc" />
+<img width="1920" height="1080" alt="gameplay 1" src="https://github.com/user-attachments/assets/d85e65e0-6884-4969-b2c6-7f7695edaa34" />
+
+<img width="1920" height="1080" alt="gameplay 2" src="https://github.com/user-attachments/assets/c983d427-f005-4f9e-ba30-3a21de25739c" />
+
+<img width="1920" height="1080" alt="gameplay 3" src="https://github.com/user-attachments/assets/8e087e10-2238-4b57-9638-2759d1025db6" />
+
+<img width="1920" height="1008" alt="gameplay 4" src="https://github.com/user-attachments/assets/ac84fc3a-a433-4441-911c-38cfa384b84f" />
+
+<img width="1920" height="1080" alt="gameplay 5" src="https://github.com/user-attachments/assets/c36c0327-fd5e-4ca4-9cc0-86ebd406b72e" />
