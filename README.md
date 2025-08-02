@@ -28,7 +28,7 @@ your best time and win the game?
    functions, and local browser storage is used to ensure continuity in the background music and keep track of the user's times.
 9. Animations were implemented using CSS keyframes (except the goblin, which was a frame-by-frame animated GIF).
 
-## Example
+## Examples
 <img width="1920" height="1080" alt="gameplay 1" src="https://github.com/user-attachments/assets/d85e65e0-6884-4969-b2c6-7f7695edaa34" />
 
 <img width="1920" height="1080" alt="gameplay 2" src="https://github.com/user-attachments/assets/c983d427-f005-4f9e-ba30-3a21de25739c" />
