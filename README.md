@@ -2,6 +2,10 @@
 
 A browser-based real-time puzzle game created with JavaScript, HTML, and CSS.
 
+## DEMO VIDEO
+[![demo_video](https://img.youtube.com/vi/wq5aOGadlFw/0.jpg)](https://www.youtube.com/watch?v=wq5aOGadlFw)
+
+
 ## Overview
 Built upon qualitative research and an emphasis on UX design fundamentals, *Hexavore* is a visually and sonically engaging gaming experience.
 
