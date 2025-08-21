@@ -521,9 +521,9 @@ function bombExplode(q, r) {
                 destroyBarriers();
             }
 
-            // if (neighborState == 9999) {
-            //     neighborHexInner.classList.remove("bomb");
-            // }
+            if (neighborState == 9999) {
+                neighborHexInner.classList.remove("bomb");
+            }
             
             // Only spread light blue to neighbors that are not yet colored
             if (neighborState != -2) {
