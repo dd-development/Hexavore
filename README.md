@@ -2,6 +2,9 @@
 
 A browser-based real-time puzzle game created with JavaScript, HTML, and CSS.
 
+# PLAY THE GAME
+https://dd-development.github.io/hexavore.html
+
 ## DEMO VIDEO
 https://www.youtube.com/watch?v=wq5aOGadlFw
 
